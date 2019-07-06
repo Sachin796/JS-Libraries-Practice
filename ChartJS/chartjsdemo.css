@@ -1,0 +1,10 @@
+canvas#mychart
+{
+    height: 168px;
+    width: 337px;
+}
+
+#linechart
+{
+    height: 100px;
+}
